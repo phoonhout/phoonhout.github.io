@@ -1,6 +1,6 @@
 ---
 layout: post    
-title: "Homepage is launched"
+title: "homepage launched"
 date: 2015-03-16
 ---
 
